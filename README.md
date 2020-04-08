@@ -1,1 +1,1 @@
-# exp-6-and-exp-7-digital-calculator-and-hit-the-ball-
+# Simple_calculator
